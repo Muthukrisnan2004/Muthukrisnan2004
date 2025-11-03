@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 B.Tech IT Student @ National Engineering College<br>💻 Data Visualization Pro | Blockchain & Backend Developer<br>🔍 Transforming data into meaningful insights<br>🛠️ Skills: Tableau, Power BI, Blockchain Development<br>💼 Intern @ Vlinder | Blockchain Devloper & Backend Engineering<br>📈 Passionate about turning complex data into actionable visuals<br>#DataViz #Analytics #BlockchainTech
+🎓 B.Tech IT Student @ National Engineering College<br>💻 Data Visualization Pro | Blockchain & Backend Developer<br>🔍 Transforming data into meaningful insights<br>🛠️ Skills: Tableau, Power BI, Blockchain Development<br>💼 Intern @ Strategic Research Insights in chennai<br>📈 Passionate about turning complex data into actionable visuals<br>#DataViz #Analytics #BlockchainTech
 
 
 ## 🌐 Socials:
